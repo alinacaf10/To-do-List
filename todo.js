@@ -38,7 +38,6 @@ function deleteTodo(e) {
   }
 }
 
-
 let index = 0;
 function filterTodo(e) {
   let input = document.querySelectorAll(".filterTodos");
